@@ -1,0 +1,42 @@
+[
+    {
+        "time": {
+            "day": 0,
+            "hour": 21,
+            "minute": 0
+        },
+        "link": "https://docs.google.com/presentation/d/e/2PACX-1vSu5FjJCLtha_uG373wH9hJvw9UNcgrz9efIiODqDnbDMDHGVvkEhmf8nnlMBeDTNpmIlfD-TmO8cTp/pub?start=true&loop=true&delayms=5000&slide=id.g7b1c880db1_0_0"
+    },
+    {
+        "time": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+        },
+        "link": "https://docs.google.com/presentation/d/e/2PACX-1vRnA8RHxClAubsUGX90VSesa92_ajN06qIYRl78UDHdhWZwNpcB_kyaWAw00iyp3pZFgpOzj54nX488/pub?start=true&loop=true&delayms=5000&slide=id.p"
+    },
+    {
+        "time": {
+            "day": 0,
+            "hour": 23,
+            "minute": 0
+        },
+        "link": "some_other_link"
+    },
+    {
+        "time": {
+            "day": 1,
+            "hour": 0,
+            "minute": 0
+        },
+        "link": "the_next_link_starts_at_midnight"
+    },
+    {
+        "time": {
+            "day": 1,
+            "hour": 1,
+            "minute": 0
+        },
+        "link": "this_is_the_midnight_link_which_you_said_was_last_so_the_time_here_does_not_matter"
+    }
+]
