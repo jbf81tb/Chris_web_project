@@ -33,7 +33,7 @@ for i, tl in enumerate(times_and_links):
 
 
     now = dt.datetime.now()
-    while now.time() <= nextTime and (now.date()-startingDate).days <= nextDay:
+    while now.time() <= nextTime or (now.date()-startingDate).days < nextDay:
         time.sleep(1)
         now = dt.datetime.now()
 

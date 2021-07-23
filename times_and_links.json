@@ -21,7 +21,7 @@
             "hour": 23,
             "minute": 0
         },
-        "link": "some_other_link"
+        "link": "https://thecardhub.net/"
     },
     {
         "time": {
@@ -29,7 +29,7 @@
             "hour": 0,
             "minute": 0
         },
-        "link": "the_next_link_starts_at_midnight"
+        "link": "https://www.sbnation.com/a/17776-football/nashville-tennessee-west-virginia"
     },
     {
         "time": {
@@ -37,6 +37,6 @@
             "hour": 1,
             "minute": 0
         },
-        "link": "this_is_the_midnight_link_which_you_said_was_last_so_the_time_here_does_not_matter"
+        "link": "https://fullstackopen.com/en/"
     }
 ]
